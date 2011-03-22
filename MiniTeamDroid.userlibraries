@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Android 2.2 Platform" />
+  <library name="Android 2.3 Platform">
+    <archive path="C:/Eclipse/Android 2.2/platforms/android-8/android.jar" />
+  </library>
+</eclipse-userlibraries>
+
